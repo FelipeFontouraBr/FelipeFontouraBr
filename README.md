@@ -1,4 +1,6 @@
-# Felipe Fontoura :man_technologist 
+<h1 align="center">
+    <img alt="GitHub language count" src="https://github.com/FelipeFontouraBr/FelipeFontouraBr/blob/master/.github/background-top.png">
+</h1>
 
 <!--
 **FelipeFontouraBr/FelipeFontouraBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +34,8 @@ I'm an Automation Engineer, Student Full Stack and Frontend passionate that love
 - Vue.js;
 
 #### Currently stuying at [Rocketseat](https://rocketseat.com.br/):rocket:
+
+<h1 align="center">
+    <img alt="GitHub language count" src="https://github.com/FelipeFontouraBr/FelipeFontouraBr/blob/master/.github/background-bottom.png">
+</h1>
 
