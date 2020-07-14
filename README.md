@@ -24,18 +24,51 @@ Here are some ideas to get you started:
 
 I'm an Automation Engineer, Student Full Stack and Frontend passionate that loves apply his knowledge to solve problems and create innovative projects. :bulb:
 
-#### Technologies:
+#### :bookmark: Technologies:
 
-- JavaScript;
-- Node.Js;
-- Html5;
-- Css3;
-- React.js;
-- Vue.js;
+<table>
+    <thead> 
+        <th>Frontend :art: </th>
+        <th>Backend :wrench: </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>JavaScript</td>
+            <td>Node.js</td>
+        </tr>
+        <tr>
+            <td>Html 5</td>
+            <td>Express</td>
+        </tr>
+        <tr>
+            <td>Css3</td>
+            <td>Sqlite</td>
+        </tr>
+        <tr>
+            <td>Nunjucks</td>
+            <td>Sqlite</td>
+        </tr>
+        <tr>
+            <td>React.js</td>
+        </tr>
+        <tr>
+            <td>React Native.js</td>
+        </tr>
+        <tr>
+            <td>Vue.js</td>
+        </tr>
+        <tr>
+            <td>Bootstrap4</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Currently stuying at [Rocketseat](https://rocketseat.com.br/):rocket:
+#### :pencil: Currently stuying at [Rocketseat](https://rocketseat.com.br/):rocket:
 
 <h1 align="center">
     <img alt="GitHub language count" src="https://github.com/FelipeFontouraBr/FelipeFontouraBr/blob/master/.github/background-bottom.png">
 </h1>
 
+<h1 align="center">
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=FelipeFontouraBr)
+</h1>
