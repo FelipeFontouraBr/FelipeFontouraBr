@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋 Welcome to my profile
 
-I'm an Automation Engineer, Student Full Stack and Frontend passionate that loves apply his knowledge to solve problems and create innovative projects.
+I'm an Automation Engineer, Student Full Stack and Frontend passionate that loves apply his knowledge to solve problems and create innovative projects. :bulb:
 
 #### Technologies:
 
