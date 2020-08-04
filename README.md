@@ -46,5 +46,4 @@ I'm an Automation Engineer, Student Full Stack and Frontend passionate that love
     :bulb:
 </p>
 
-<img alt="GitHub language count" src="https://github.com/FelipeFontouraBr/FelipeFontouraBr/blob/master/.github/background-bottom.png">
 
