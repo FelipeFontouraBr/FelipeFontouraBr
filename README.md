@@ -1,6 +1,3 @@
-<img alt="GitHub language count" src="https://github.com/FelipeFontouraBr/FelipeFontouraBr/blob/master/.github/background-top.png">
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeFontouraBr)](https://github.com/FelipeFontouraBr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fontourafelipe/)](https://www.linkedin.com/in/fontourafelipe/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipefontouramec@gmail.com)](mailto:felipefontouramec@gmail.com)
