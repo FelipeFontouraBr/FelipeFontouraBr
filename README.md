@@ -21,7 +21,7 @@ I'm an Automation Engineer, Student Full Stack and Frontend passionate that love
         </tr>
         <tr>
             <td>React.js</td>
-            <td>Express</td>
+            <td>Mongodb</td>
         </tr>
         <tr>
             <td>React Native</td>
