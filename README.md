@@ -22,8 +22,7 @@ I'm an Automation Engineer, Student Full Stack and Frontend passionate that love
         <tr>
             <td>React.js</td>
             <td>Mongodb</td>
-        </tr>
-       
+        </tr>       
         <tr>
             <td>Figma</td>
             <td>TailwindCss</td>
