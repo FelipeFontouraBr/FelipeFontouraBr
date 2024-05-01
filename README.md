@@ -23,23 +23,15 @@ I'm an Automation Engineer, Student Full Stack and Frontend passionate that love
             <td>React.js</td>
             <td>Mongodb</td>
         </tr>
-        <tr>
-            <td>React Native</td>
-            <td>Sqlite</td>
-        </tr>
+       
         <tr>
             <td>Figma</td>
-            <td>MySql</td>
+            <td>TailwindCss</td>
         </tr>
     </tbody>
 </table>
 
 #### :pencil: Currently studying at [Rocketseat](https://rocketseat.com.br/):rocket:
-
-#### :dart: Goals for 2021
-
-- Develop projects that help those most affected by Covid-19.
-- Develop space-related projects
 
 <p align="center">
     :computer:
