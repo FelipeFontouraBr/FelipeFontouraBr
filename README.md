@@ -5,36 +5,4 @@
 
 ### Hello! 👋 Welcome to my profile
 
-I'm an Automation Engineer, Student Full Stack and Frontend passionate that loves apply his knowledge to solve problems and create innovative projects. :bulb:
-
-#### :bookmark: Technologies:
-
-<table>
-    <thead> 
-        <th>Frontend :art: </th>
-        <th>Backend :nut_and_bolt: </th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>JavaScript</td>
-            <td>Node.js</td>
-        </tr>
-        <tr>
-            <td>React.js</td>
-            <td>Mongodb</td>
-        </tr>       
-        <tr>
-            <td>Figma</td>
-            <td>TailwindCss</td>
-        </tr>
-    </tbody>
-</table>
-
-#### :pencil: Currently studying at [Rocketseat](https://rocketseat.com.br/):rocket:
-
-<p align="center">
-    :computer:
-    :bulb:
-</p>
-
-
+Transforming emerging tech into intuitive SaaS solutions. I currently lead UX/UI design for generative AI platforms, streamlining complex workflows and AI agent management. Specializing in Design Systems, I bridge the gap between design and engineering with solid documentation, ensuring visual coherence and rapid scalability.
